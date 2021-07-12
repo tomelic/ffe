@@ -1,4 +1,4 @@
-# frida_fn_enum
+# Frida function enumeration
 Frida function enumeration and injection. 
 Current script requires manual modifications, read the comments :)
 
