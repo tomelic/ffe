@@ -9,4 +9,4 @@ Current script requires manual modifications, read the comments :)
 * Modify the frida agent script to monitor the functions you want, choose between v1 or v2 (different implementation attempts)
 
 # Usage
-`frida -U com.package -l some-frida-agent.js --no-pause`
+`frida -U com.package -l frida_function_hook_1.js --no-pause`
