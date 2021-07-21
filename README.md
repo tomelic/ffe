@@ -2,6 +2,8 @@
 Frida function enumeration and injection. 
 Current script requires manual modifications, read the comments :)
 
+<img src="https://github.com/tomelic/ffe/blob/master/example.png" width="1096" height="604">
+
 To use:
 1. Install frida-server and frida-tools (a good guide can be found here: https://omespino.com/tutorial-universal-android-ssl-pinning-in-10-minutes-with-frida/)
 
